@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>pintos lab1 threads</title>
+    <link href="/2025/11/06/pintos-lab1-threads/"/>
+    <url>/2025/11/06/pintos-lab1-threads/</url>
+    
+    <content type="html"><![CDATA[<p>#lab1 threads</p><h2 id="一、安装实验环境，具体参考实验手册"><a href="#一、安装实验环境，具体参考实验手册" class="headerlink" title="一、安装实验环境，具体参考实验手册"></a>一、安装实验环境，具体参考实验手册</h2><h2 id="二、实验目的："><a href="#二、实验目的：" class="headerlink" title="二、实验目的："></a>二、实验目的：</h2><p>通过阅读实验手册，我们可以知道<br>1.改写timer_sleep()函数，消除busy waiting问题<br>2.实现优先级调度<br>3.实现多级反馈队列</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/11/06/hello-world/"/>
     <url>/2025/11/06/hello-world/</url>
